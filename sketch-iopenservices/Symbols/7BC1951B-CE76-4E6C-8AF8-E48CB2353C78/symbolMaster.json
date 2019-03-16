@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 23,
   "do_objectID": "7BC1951B-CE76-4E6C-8AF8-E48CB2353C78",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 1302,
     "width": 1080,
-    "x": 5871,
-    "y": 758
+    "x": 3509,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,15 +44,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "B99D16EC-7B0C-4133-9DE7-735B9E60C359"
     }
   ],
-  "name": "ui/layout/form",
-  "nameIsFixed": false,
+  "name": "layout/adaptive/form",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

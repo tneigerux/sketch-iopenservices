@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "FEA3C46A-A8FB-40F5-9113-A1B8CDEAC2EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD78E1AD-349D-4A12-ADA6-94301352E265",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8347E92-545D-4CC9-B3B6-4FBDD97D9F0C",
+    "height": 1482,
+    "width": 1080,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6374C7FD-D08C-4DC6-9CA4-B311FFEF77FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D65298A-3E2E-433A-B099-DB603D89278A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F6ACF02-A68D-467C-B259-F9B67F511998"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C1A64E2-6634-4A31-A011-9D560BD4CB00"
+    }
+  ],
+  "name": "Product Mutiple Photo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44FD2B47-E491-4921-8E16-0568D3251153",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

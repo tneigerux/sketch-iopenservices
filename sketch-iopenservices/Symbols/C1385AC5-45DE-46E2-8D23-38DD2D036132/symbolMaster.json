@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 24,
   "do_objectID": "C1385AC5-45DE-46E2-8D23-38DD2D036132",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 383,
     "width": 1080,
-    "x": 5871,
-    "y": 2160
+    "x": 6022,
+    "y": 913
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,15 +44,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "8018293F-D578-4347-8547-D2C41D994434"
     }
   ],
-  "name": "ui/layout/nav-bar/collapsed",
-  "nameIsFixed": false,
+  "name": "layout/mobile/nav-bar/expanded",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

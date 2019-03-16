@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 29,
   "do_objectID": "A602DBE1-20E4-4995-A3EA-4E52CFCB779C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 101,
     "width": 592,
-    "x": 1460,
-    "y": 1685
+    "x": 2717,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -51,8 +51,8 @@
       "id": "6ECC4025-DFA6-4065-9273-C503AC7B4E5B"
     }
   ],
-  "name": "ui/control/pagination",
-  "nameIsFixed": false,
+  "name": "display/pagination",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

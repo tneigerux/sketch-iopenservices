@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 8,
+  "changeIdentifier": 24,
   "do_objectID": "F9FD94C6-C59B-44FB-B193-23D65A2203C2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 524,
     "width": 524,
-    "x": 280,
-    "y": 700
+    "x": 1534,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,7 +51,7 @@
       "id": "CC5A7EE6-CDA6-48C8-937B-C96C9BEE111D"
     }
   ],
-  "name": "ui/content/image/1:1-aspect-ratio",
+  "name": "display/content/image/1-1-aspect-ratio",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

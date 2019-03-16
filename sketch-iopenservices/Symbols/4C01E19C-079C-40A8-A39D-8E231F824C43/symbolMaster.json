@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 23,
   "do_objectID": "4C01E19C-079C-40A8-A39D-8E231F824C43",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 38,
     "width": 41,
-    "x": 1460,
-    "y": 1547
+    "x": 8767,
+    "y": 312
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -51,8 +51,8 @@
       "id": "BA1902A2-81CB-419A-AFBD-356DCB206FC3"
     }
   ],
-  "name": "ui/control/icon/favorite-heart",
-  "nameIsFixed": false,
+  "name": "ui/icon/favorite-heart",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
