@@ -1,0 +1,77 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "390255E2-D613-4262-A0AD-611337E5C627",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17DD18AD-E9B0-4320-8104-30E2E70BFB6E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "853C3666-0EA4-4F37-BA90-09798A3E81F1",
+    "height": 51.03076518621097,
+    "width": 60.00029291549197,
+    "x": 955.1877070845076,
+    "y": 130.0153390689384
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BA0C4EDB-9FE2-425E-9A8F-60604D9E0AB3"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED86CF5B-DDDC-49F3-B65C-020B4BD39D1B"
+    }
+  ],
+  "name": "basket",
+  "nameIsFixed": true,
+  "originalObjectID": "AF7A3324-B22C-45D6-90AD-4C6022F7E098",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B90F2CC1-47BE-4896-9775-453C80F831E9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

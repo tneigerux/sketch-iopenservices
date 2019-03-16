@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "82316F12-8067-4104-9DCA-6579EE3259D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "435D67D9-444A-4FE2-BFA0-FA17EAE5C65D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2D17144-294E-4A29-9809-45F8B091F027",
+    "height": 600,
+    "width": 980,
+    "x": 26,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3ED825E0-0C6A-4A9E-8513-2D28FB332040"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BDFEEA58-6013-4351-A79A-C9C8ED1CFB61"
+    }
+  ],
+  "name": "BG + photo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "407B7785-0482-4149-A908-340729BF52B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
