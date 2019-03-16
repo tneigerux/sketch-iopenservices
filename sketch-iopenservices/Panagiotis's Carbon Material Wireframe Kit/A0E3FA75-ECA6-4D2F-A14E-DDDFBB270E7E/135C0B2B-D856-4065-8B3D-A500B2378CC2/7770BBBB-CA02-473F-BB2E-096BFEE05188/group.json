@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -50,8 +50,8 @@
       "id": "5672EFA4-7009-47BF-8CB2-F3CF470E9B1D"
     },
     {
-      "class": "shapeGroup",
-      "id": "BB4F556E-8B5E-4842-89CC-B19B3045ACF0"
+      "class": "symbolInstance",
+      "id": "3A8C835A-E9A1-4E7F-B5CD-79C20D7B1472"
     }
   ],
   "name": "grid item",

@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "0B9C1658-66E5-4245-819F-E022181207F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9A0FE9B-DFBD-49DA-B28E-255CB9956306",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61A3DE90-922D-43EB-86D4-33E534294F74",
+    "height": 144,
+    "width": 1080,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E7910F98-F7DE-4EAB-9C8E-2A028570F061"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B00F0F67-B86D-407B-8B1C-B39796302004"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F46368C-44C7-4B16-B9B9-ACED5CFA5630"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB435FF0-BEA8-4F44-987E-B4D9F9FC8533"
+    }
+  ],
+  "name": "android controls",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B86B3F88-ABCF-470F-8402-15AC4DD40D4D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

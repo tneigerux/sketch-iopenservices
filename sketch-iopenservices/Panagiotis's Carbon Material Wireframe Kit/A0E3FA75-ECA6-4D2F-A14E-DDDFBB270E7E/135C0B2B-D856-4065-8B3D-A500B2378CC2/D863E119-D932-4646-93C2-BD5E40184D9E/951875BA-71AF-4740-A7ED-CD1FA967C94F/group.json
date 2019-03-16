@@ -27,19 +27,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "DCA67913-209D-4C38-9099-91F479B177DC"
+      "class": "symbolInstance",
+      "id": "CB01B945-53E4-4F02-AA25-10D3ACC0B140"
     },
     {
-      "class": "shapeGroup",
-      "id": "E6EC6F9C-88C6-4969-8B19-A1FA6CB133F0"
+      "class": "symbolInstance",
+      "id": "D0852E5A-0010-43E3-8E2D-F0F23C8F236E"
     },
     {
-      "class": "shapeGroup",
-      "id": "BA1902A2-81CB-419A-AFBD-356DCB206FC3"
+      "class": "symbolInstance",
+      "id": "850C610C-6843-416A-A668-337344AFCFB2"
     }
   ],
   "name": "actions",
