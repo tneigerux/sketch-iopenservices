@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "57173F23-AFFC-40C7-A8AA-6F3AA8D7BDB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4BE73B2-BF90-4185-AB52-C865A9FE7328",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77A21B1C-24D2-4608-9D95-928E8B1E9EE4",
+    "height": 80,
+    "width": 80,
+    "x": -296,
+    "y": -172
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "style/swatch/warm/brown",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97ED7545-EC1E-434A-A528-DAEBFCCC4501",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "488CC22D-9BB0-46A5-841A-053C82F28071",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "970FB7A4-0DC7-4B19-84E2-C29624427926",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEBCBCB6-5432-4D0E-83B4-6E23C4366DD9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1275FC32-2DAA-42B8-ADE1-1DD22703764C",
+    "height": 80,
+    "width": 80,
+    "x": -296,
+    "y": -70
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "style/swatch/epsilon/turquiose",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E278F11-271A-4405-93EA-10F1FD793055",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "554540BA-8405-445F-B90B-B407F882A26B",
+  "verticalSpacing": 0
+}

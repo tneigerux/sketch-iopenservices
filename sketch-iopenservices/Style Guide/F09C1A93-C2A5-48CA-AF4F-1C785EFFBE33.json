@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F09C1A93-C2A5-48CA-AF4F-1C785EFFBE33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BCDF10C-111E-447C-A382-4817D1C960DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E61A78A8-DB04-4E2D-A72D-C44FF647B23A",
+    "height": 80,
+    "width": 80,
+    "x": -194,
+    "y": -172
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "style/swatch/warm/orange",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A9FCDEB-BC07-427B-B9C2-66703E4C6D3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D7E1921F-7B4D-423F-9413-DB0A2E402652",
+  "verticalSpacing": 0
+}
