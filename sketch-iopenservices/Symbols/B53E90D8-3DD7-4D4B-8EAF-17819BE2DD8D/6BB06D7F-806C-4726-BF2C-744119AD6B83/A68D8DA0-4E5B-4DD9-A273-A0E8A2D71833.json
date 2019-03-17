@@ -9,18 +9,23 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3098039216,
-            "green": 0.2901960784,
-            "red": 0.2784313725
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "Helvetica",
               "size": 48
             }
           },
-          "ligature": 0
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 7,
         "location": 0
@@ -46,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5FCB60F7-7B18-49AF-AE29-D6B93EA0ADC0",
-    "height": 57,
-    "width": 169,
+    "height": 58,
+    "width": 166,
     "x": 36,
-    "y": 43
+    "y": 42
   },
-  "glyphBounds": "{{0, 0}, {168, 46}}",
+  "glyphBounds": "{{4, 12}, {161, 36}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -70,26 +75,31 @@
     "do_objectID": "76B6B136-D5C4-4408-A0B8-6FD1456AC91A",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "090BEE23-1E53-4003-87F8-8EC5CC9F63D3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EDEE3A9A-3A1F-40DD-921E-C24A8A0958A8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3098039216,
-          "green": 0.2901960784,
-          "red": 0.2784313725
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "Helvetica",
             "size": 48
           }
         },
-        "ligature": 0
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

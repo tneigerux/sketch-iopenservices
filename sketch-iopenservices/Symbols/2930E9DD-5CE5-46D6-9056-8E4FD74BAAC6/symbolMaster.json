@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 388,
+  "changeIdentifier": 398,
   "do_objectID": "2930E9DD-5CE5-46D6-9056-8E4FD74BAAC6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 80,
     "width": 80,
-    "x": 7302,
+    "x": 7921,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -55,8 +55,8 @@
       "id": "D9C88257-A3B2-4936-BFF5-4E0BE6C5FB81"
     }
   ],
-  "name": "style/swatch/accent/green",
-  "nameIsFixed": false,
+  "name": "style/swatch/accent",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

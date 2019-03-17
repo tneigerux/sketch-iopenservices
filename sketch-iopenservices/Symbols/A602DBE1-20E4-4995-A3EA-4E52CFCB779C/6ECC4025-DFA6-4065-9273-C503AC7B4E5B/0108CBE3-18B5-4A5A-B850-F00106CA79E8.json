@@ -9,22 +9,23 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5490196078,
-            "green": 0.5176470588,
-            "red": 0.4941176471
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
-              "size": 42
+              "name": "Helvetica",
+              "size": 24
             }
           },
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
-          }
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
         "location": 0
@@ -50,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B259D54E-6938-4B4D-9B3F-3E78ECBC4227",
-    "height": 49,
-    "width": 28,
-    "x": 283.991,
-    "y": 26.47500000000036
+    "height": 29,
+    "width": 18,
+    "x": 282.991,
+    "y": 37.47500000000036
   },
-  "glyphBounds": "{{0, 0}, {26, 40}}",
+  "glyphBounds": "{{1, 5}, {16, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -74,30 +75,31 @@
     "do_objectID": "054A9F08-F4ED-4B0A-A445-AB4A6017F6CE",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "C94B9605-9611-4B83-B2D2-EA92061766EE",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "5E4F4072-D420-4961-8DC7-C5E0963ECF00",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5490196078,
-          "green": 0.5176470588,
-          "red": 0.4941176471
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
-            "size": 42
+            "name": "Helvetica",
+            "size": 24
           }
         },
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
-        }
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

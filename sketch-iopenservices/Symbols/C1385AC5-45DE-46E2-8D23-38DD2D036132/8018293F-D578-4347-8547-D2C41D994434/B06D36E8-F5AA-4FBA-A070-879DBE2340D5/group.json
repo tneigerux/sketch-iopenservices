@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "12279618-62FA-4A6B-9DB3-8762D193FCDA",
-    "height": 95,
-    "width": 1006,
+    "height": 89,
+    "width": 994,
     "x": 0,
-    "y": 288
+    "y": 294
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",

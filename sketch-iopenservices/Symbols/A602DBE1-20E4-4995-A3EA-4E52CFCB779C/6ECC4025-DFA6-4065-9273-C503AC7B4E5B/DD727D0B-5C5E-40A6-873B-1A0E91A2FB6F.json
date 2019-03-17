@@ -16,15 +16,16 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
-              "size": 42
+              "name": "Helvetica",
+              "size": 24
             }
           },
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
-          }
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
         "location": 0
@@ -50,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CE0A2848-FBC9-4064-B689-30818E5882CD",
-    "height": 49,
-    "width": 27,
-    "x": 142.9899999999998,
-    "y": 26.47500000000036
+    "height": 29,
+    "width": 17,
+    "x": 141.9899999999998,
+    "y": 37.47500000000036
   },
-  "glyphBounds": "{{0, 0}, {25, 39}}",
+  "glyphBounds": "{{1, 5}, {15, 18}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -74,10 +75,10 @@
     "do_objectID": "2F2EE384-5588-4B91-B801-69C699A90378",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "584D30C0-6196-46EC-B215-7AB35AB47A4E",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "DD2D36EF-C819-4A83-B151-60F4B0973022",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -89,15 +90,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
-            "size": 42
+            "name": "Helvetica",
+            "size": 24
           }
         },
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
-        }
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

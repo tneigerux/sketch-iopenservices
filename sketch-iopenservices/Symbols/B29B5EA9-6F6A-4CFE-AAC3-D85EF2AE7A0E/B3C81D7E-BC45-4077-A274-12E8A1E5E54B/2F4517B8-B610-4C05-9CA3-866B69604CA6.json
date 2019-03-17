@@ -9,63 +9,26 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3111488521099091,
-            "green": 0.2900274395942688,
-            "red": 0.2794758081436157
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
-              "size": 42
+              "name": "Helvetica",
+              "size": 48
             }
-          }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 7,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3111488521099091,
-            "green": 0.2900274395942688,
-            "red": 0.2794758081436157
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Medium",
-              "size": 42
-            }
-          },
-          "kerning": -0.7518000000000001
-        },
-        "length": 1,
-        "location": 1
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3111488521099091,
-            "green": 0.2900274395942688,
-            "red": 0.2794758081436157
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Medium",
-              "size": 42
-            }
-          }
-        },
-        "length": 5,
-        "location": 2
       }
     ],
     "string": "Product"
@@ -88,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "507BA742-0C00-4C39-8B29-58967280F06C",
-    "height": 49,
-    "width": 148,
+    "height": 58,
+    "width": 166,
     "x": 24.99119999999994,
-    "y": 338.7568499999998
+    "y": 332.7568499999998
   },
-  "glyphBounds": "{{0, 0}, {148, 49.21875}}",
+  "glyphBounds": "{{4, 12}, {161, 36}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -112,25 +75,31 @@
     "do_objectID": "8C91697C-6589-4E06-8D28-FB38E404F902",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "090BEE23-1E53-4003-87F8-8EC5CC9F63D3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FA1B2641-49FF-4A25-8980-167B34EA3B4D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3111488521099091,
-          "green": 0.2900274395942688,
-          "red": 0.2794758081436157
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
-            "size": 42
+            "name": "Helvetica",
+            "size": 48
           }
-        }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

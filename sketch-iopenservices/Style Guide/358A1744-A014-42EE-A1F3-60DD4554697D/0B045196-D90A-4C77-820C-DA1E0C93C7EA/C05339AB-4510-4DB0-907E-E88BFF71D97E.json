@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 48
+              "size": 36
             }
           },
           "paragraphStyle": {
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F8771D99-ECF5-4A3F-BF99-0882E913E090",
-    "height": 58,
+    "height": 43,
     "width": 419,
     "x": 0,
-    "y": 77
+    "y": 89
   },
-  "glyphBounds": "{{3, 12}, {193, 36}}",
+  "glyphBounds": "{{2, 9}, {145, 27}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -79,7 +79,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EBACA4FA-A7B0-4A1F-8001-FD3FB499804A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,7 +91,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 48
+            "size": 36
           }
         },
         "paragraphStyle": {

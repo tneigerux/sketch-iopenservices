@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 30,
+  "changeIdentifier": 48,
   "do_objectID": "BAB93CAF-970E-4C63-A09D-49C1156A4E52",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 108,
     "width": 340,
-    "x": 7582,
+    "x": 8201,
     "y": 372
   },
   "hasBackgroundColor": false,

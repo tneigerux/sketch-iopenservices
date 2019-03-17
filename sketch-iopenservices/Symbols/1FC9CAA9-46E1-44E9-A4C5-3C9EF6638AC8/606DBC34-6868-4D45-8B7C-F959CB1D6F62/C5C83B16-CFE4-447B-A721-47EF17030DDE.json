@@ -9,18 +9,23 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3098039216,
-            "green": 0.2901960784,
-            "red": 0.2784313725
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 54
+              "name": "Helvetica",
+              "size": 48
             }
           },
-          "ligature": 0
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 8,
         "location": 0
@@ -46,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EBF68140-B96D-46D1-A92C-40CBB41A42A7",
-    "height": 63,
-    "width": 217,
+    "height": 58,
+    "width": 195,
     "x": 216.9870000000001,
-    "y": 31.88400000000001
+    "y": 36.88400000000001
   },
-  "glyphBounds": "{{0, 0}, {216, 62}}",
+  "glyphBounds": "{{2, 11}, {193, 47}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -70,26 +75,31 @@
     "do_objectID": "803207C2-6EE8-4713-90E6-A11379A9AA09",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "090BEE23-1E53-4003-87F8-8EC5CC9F63D3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0C1EAF0B-5BF3-490C-9384-F6DD0C1CD0D3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3098039216,
-          "green": 0.2901960784,
-          "red": 0.2784313725
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 54
+            "name": "Helvetica",
+            "size": 48
           }
         },
-        "ligature": 0
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
