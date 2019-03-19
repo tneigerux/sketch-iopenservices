@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "935E7E8B-0B16-4CE5-9DC6-02701A9E64C3",
+  "do_objectID": "3F00B2FF-0A7D-4137-8EB7-FFCB564DB952",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2CB7415D-64A3-4CF6-86F5-21E5B545B94D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0C94DABD-791D-4BF3-8F51-EA2598FD220B",
-    "height": 80,
-    "width": 80,
-    "x": -296,
-    "y": -274
+    "height": 383,
+    "width": 1080,
+    "x": 25,
+    "y": 1
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "style/swatch/accent/green",
+  "name": "layout/mobile/nav-bar/expanded",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,12 +37,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C59A01E3-756E-47D0-B08E-D093ECE09195",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "59CF26C1-F998-4014-A588-8073B5E9056C",
+  "symbolID": "4CF949CE-470B-4B4D-9425-0B6D921653C5",
   "verticalSpacing": 0
 }

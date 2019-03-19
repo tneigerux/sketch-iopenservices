@@ -36,18 +36,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "20F1BF14-CD13-44CB-A975-66D2BE337E52"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "935E7E8B-0B16-4CE5-9DC6-02701A9E64C3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C9DC875C-892C-4870-820B-B429E5FA4EF6"
-    },
-    {
-      "class": "symbolInstance",
       "id": "7862F1CB-96C5-4E6B-8E0D-0205000B4F94"
     },
     {
@@ -57,6 +45,18 @@
     {
       "class": "symbolMaster",
       "id": "358A1744-A014-42EE-A1F3-60DD4554697D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A7D3771-7F0F-4777-A95C-DA6E127BF7B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21C4B6B1-5EEA-4F49-9868-735CA27BBC3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90627280-A7F7-492C-95CC-3DA9912C89FE"
     }
   ],
   "name": "Style Guide",

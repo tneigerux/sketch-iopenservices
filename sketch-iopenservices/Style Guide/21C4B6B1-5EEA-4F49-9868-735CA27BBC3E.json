@@ -1,10 +1,9 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "C9DC875C-892C-4870-820B-B429E5FA4EF6",
+  "do_objectID": "21C4B6B1-5EEA-4F49-9868-735CA27BBC3E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B6F40B65-9BAD-4D6D-A92C-3731E2FF5225",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +14,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "48F6FD9C-51AB-4469-ABD2-D68155C03239",
     "height": 80,
     "width": 80,
-    "x": -92,
+    "x": -207,
     "y": -274
   },
   "horizontalSpacing": 0,
@@ -28,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "style/swatch/white",
+  "name": "style/swatch/dark",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,12 +37,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8BC343F8-D1EA-475A-B6BB-9F7811613D31",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "16D00971-E89C-4336-9A77-B1C2677B22F1",
+  "symbolID": "3A4F8734-49F5-4257-AA3F-4CF903DD2A6E",
   "verticalSpacing": 0
 }
